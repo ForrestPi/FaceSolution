@@ -93,3 +93,5 @@ Center Loss在Softmax的基础上，仅显式约束类内紧凑，0.7M训练数�
 ### Feature Normalization
 + Liu Y, Li H, Wang X. Rethinking feature discrimination and polymerization for large-scale recognition [C]// NIPS workshop, 2017.
 
+InsightFace - 使用篇, 如何一键刷分LFW 99.80%, MegaFace 98%.
+https://zhuanlan.zhihu.com/p/33750684
