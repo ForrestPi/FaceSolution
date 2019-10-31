@@ -103,3 +103,8 @@ for param in center_loss.parameters():
     param.grad.data *= (lr_cent / (alpha * lr))
 optimizer.step()
 ```
+
+
+https://www.cnblogs.com/carlber/p/10811396.html
+https://www.aiuai.cn/aifarm102.html
+https://zhuanlan.zhihu.com/p/23444100
