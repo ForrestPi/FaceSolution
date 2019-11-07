@@ -1,6 +1,8 @@
 ## 视频教程
 一亿ID的人脸识别训练和万亿人脸对 [视频](https://v.qq.com/x/page/o070252xe05.html) [课件](https://edu.csdn.net/course/detail/8528)
 
+Typically, face recognition can be categorized as face identiﬁcation and face veriﬁcation . The former classiﬁes a face to a speciﬁc identity, while the latter determines whether a pair of faces belongs to the same identity.
+
 ## Loss
 
 ### softmax

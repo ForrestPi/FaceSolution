@@ -44,6 +44,7 @@ Softmax函数，或称归一化指数函数[1]，是逻辑函数的一种推广�
 **SoftMax Loss = CrossEntropy(Softmax)**
 
 ## 二、SphereFace
+[通天塔](https://tongtianta.site/paper/65217)
 要想增强 SoftMax 的分类能力，其实就是要在分布上做到两点：
 
 + 让同类之间距离更近
@@ -163,3 +164,6 @@ class SphereProduct(nn.Module):
                + ', m=' + str(self.m) + ')'
 ```
 ## 三、CosFace
+
+## 四、CosFace
+[通天塔](https://tongtianta.site/paper/6572)

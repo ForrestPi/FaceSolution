@@ -34,3 +34,8 @@ softmax(x)=softmax(x+c)
 也就是证明加了偏移c之后，对整个softmax层的作用不起影响。如下：
 ![softmax](softmax/softmax03.jpg)
 希望对你理解有帮助~
+
+[从最优化的角度看待Softmax损失函数](https://zhuanlan.zhihu.com/p/45014864)
+[Softmax理解之二分类与多分类](https://zhuanlan.zhihu.com/p/45368976)
+[Softmax理解之Smooth程度控制](https://zhuanlan.zhihu.com/p/49939159)
+[Softmax理解之margin](https://zhuanlan.zhihu.com/p/52108088)
