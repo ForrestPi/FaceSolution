@@ -4,7 +4,7 @@ https://github.com/biubug6/Pytorch_Retinaface
 https://github.com/Linzaer/Ultra-Light-Fast-Generic-Face-Detector-1MB
 https://github.com/biubug6/Pytorch_Retinaface
 https://github.com/1996scarlet/faster-mobile-retinaface
-
+https://github.com/Linzaer/Ultra-Light-Fast-Generic-Face-Detector-1MB
 
 
 
