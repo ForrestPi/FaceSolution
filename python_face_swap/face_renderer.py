@@ -32,7 +32,7 @@ def addTextureRGBA(img, alpha_img):
 
     B, G, R = cv2.split(img)
     img_RGBA = cv2.merge((B, G, R, alpha_img))
-    print img_RGBA.shape
+    print(img_RGBA.shape)
 
     glTexImage2D(GL_TEXTURE_2D, 0, GL_RGBA, img_RGBA.shape[1], img_RGBA.shape[0], 0, GL_BGRA, GL_UNSIGNED_BYTE, img_RGBA)
     
@@ -55,7 +55,7 @@ class FaceRenderer:
         glEnable(GL_TEXTURE_2D) 
 
         # Enable blending
-        glEnable(GL_BLEND);
+        glEnable(GL_BLEND)
         glBlendFunc(GL_SRC_ALPHA, GL_ONE_MINUS_SRC_ALPHA);
 
         self.textureCoords = textureCoords

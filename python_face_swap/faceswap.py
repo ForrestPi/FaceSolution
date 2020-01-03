@@ -45,7 +45,7 @@ class faceswap(object):
             mask[:,:,:3][binmask] = [255, 255, 255]
 
             cmin, rmin, cmax, rmax = self.calcBBox(binmask)
-            center = ((cmin + cmax)/2, (rmin + rmax)/2)
+            center = ((cmin + cmax)//2, (rmin + rmax)//2)
             output = cv2.seamlessClone(rendered_img, target_img, mask, center, cv2.NORMAL_CLONE)
             return output
 

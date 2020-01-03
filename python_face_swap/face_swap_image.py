@@ -73,7 +73,7 @@ if __name__ == '__main__':
         if rendered_img is not None:
             cv2.imshow('render', rendered_img)
             cv2.waitKey(1)
-        else: print 'Could not find faces!'
+        else: print('Could not find faces!')
 
         # Write output image
         cv2.imwrite(args.output, rendered_img)
