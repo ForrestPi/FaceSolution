@@ -7,3 +7,6 @@ https://github.com/ronghuaiyang/arcface-pytorch
 https://github.com/TreB1eN/InsightFace_Pytorch
 https://github.com/bunchesofdonald/photohash
 https://github.com/JohannesBuchner/imagehash
+
+
+https://github.com/polarisZhao/awesome-face

@@ -15,3 +15,8 @@ https://github.com/ideask/A-Practical-Facial-Landmark-Detector
 https://github.com/ideask?tab=repositories
 
 https://github.com/zeusees/HyperLandmark
+
+
+https://github.com/polarisZhao/PFLD-pytorch
+
+https://github.com/ideask/A-Practical-Facial-Landmark-Detector
